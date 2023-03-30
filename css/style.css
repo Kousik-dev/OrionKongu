@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap");
+
+.brand-logo {
+  font-size: 34px;
+  font-family: "Kaushan Script", cursive;
+  color: white;
+}
+
+.title-name {
+  font-family: "Kaushan Script", cursive;
+  color: white;
+  font-size: 40px;
+}
+
+.members {
+  width: 180px;
+  height: 180px;
+}
+
+.events-list {
+  font-size: 18px;
+}
+
+.meeta-event-schedule-2
+  .meeta-event-schedule-tabs
+  .meeta-event-schedule-tabs-menu
+  li
+  .meeta-event-schedule-time {
+  padding: 10px 0;
+  width: 200px !important;
+}
+
+.main-menu li a {
+  font-family: "Kaushan Script", cursive !important;
+  font-size: 20px !important;
+}
+
+.const {
+  background-image: url("../images/construction.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+.mca {
+  width: 600px !important;
+  height: 470px !important;
+}
+
+.blog-image img {
+  object-fit: cover;
+  -o-object-fit: cover;
+  height: 250px;
+}
